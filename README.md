@@ -60,3 +60,6 @@ Browsers that are compatible include Google Chrome, Firefox, Safari, Internet Ex
 Style Sheets (.css), Images (.jpg/png/gif), JQuery plugins (.js), and Fonts (.ttf) are included examples of source files.
 
 High Resolution: Yes
+
+
+Primary Azure Technology: Static Web App
